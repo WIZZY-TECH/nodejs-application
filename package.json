@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://18.135.46.135:8081/repository/Tdbank-nodejs/"
+    "registry": "http://3.8.166.210:8081/repository/Team35-nodejS/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
